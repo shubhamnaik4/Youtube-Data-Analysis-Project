@@ -2,7 +2,7 @@
 This project focuses on securely handling, optimizing, and analyzing structured and semi-structured YouTube video data, categorized by video type and trending metrics.
 
 # Project Goals
-Data Ingestion: Develop a system to collect data from multiple sources efficiently.
+Data Ingestion: Develop a system to collect data from multiple sources efficiently./
 ETL Process: Convert raw data into a structured format through extraction, transformation, and loading.
 Data Lake: Establish a centralized repository to store data from various sources for easy access and management.
 Scalability: Ensure the system can handle increasing data volumes without performance issues.
